@@ -1,9 +1,15 @@
 # Portfolio-SB
-• Page Structured Using HTML
-• Designed Using CSS
-• Responsive Using Bootstrap
-• Animations
-• Color Combinations
-• Good Looking UI
 
-Link : https://sahimbehlim.github.io/Portfolio-SB/
+A portfolio created using HTML, CSS, and Bootstrap.
+
+- Page structured using HTML
+- Designed using CSS
+- Responsive design using Bootstrap
+- JavaScript DOM manipulation
+- Animate on Scroll for engaging effects
+- Thoughtful color combinations
+- User-friendly interface
+
+## Live Demo
+
+[View Live Demo](https://sahimbehlim.github.io/Portfolio-SB/)
