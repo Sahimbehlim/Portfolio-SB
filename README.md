@@ -9,7 +9,3 @@ A portfolio created using HTML, CSS, and Bootstrap.
 - Animate on Scroll for engaging effects
 - Thoughtful color combinations
 - User-friendly interface
-
-## Live Demo
-
-[View Live Demo](https://sahimbehlim.github.io/Portfolio-SB/)
